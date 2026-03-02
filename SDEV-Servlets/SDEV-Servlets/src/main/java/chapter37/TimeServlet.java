@@ -5,7 +5,7 @@ import javax.servlet.http.*;
 import java.io.*;
 import java.time.LocalTime;
 
-public class Exe extends HttpServlet {
+public class TimeServlet extends HttpServlet {
 
     // Called by the servlet engine to initialize servlet
     public void init() throws ServletException {
